@@ -55,3 +55,7 @@
 ### Ordre d'importation: Faut il importer les tables Parents avant les tables enfants ?
 #
 
+#
+### Processur Nettoyage: Comment tu nettoie ton csv (Regex ou autre)?
+#
+
