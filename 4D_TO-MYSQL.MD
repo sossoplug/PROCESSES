@@ -48,5 +48,9 @@
 
 ###
 
+# QUESTIONS
+### Ordre d'importation? Faut il importer les tables Parents avant les tables enfants ?
+
+
 #
 #
